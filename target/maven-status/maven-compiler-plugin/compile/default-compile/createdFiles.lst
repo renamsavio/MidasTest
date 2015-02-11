@@ -1,6 +1,0 @@
-com/renam/portal/services/DataService.class
-com/renam/portal/services/DataServiceImpl.class
-com/renam/portal/domain/Comment.class
-com/renam/portal/dao/DataDaoImpl.class
-com/renam/portal/dao/DataDao.class
-com/renam/portal/controller/DataController.class
