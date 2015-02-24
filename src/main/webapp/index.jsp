@@ -1,6 +1,8 @@
-<%response.sendRedirect("form");%>
 <html>
+<head>
+   <!-- HTML meta refresh URL redirection -->
+   <meta http-equiv="refresh" content="0; url=form">
+</head>
 <body>
-<h2>Hello World!</h2>
 </body>
 </html>
